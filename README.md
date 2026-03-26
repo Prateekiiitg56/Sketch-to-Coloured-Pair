@@ -2,7 +2,7 @@
 
 This project uses a conditional Generative Adversarial Network (cGAN) to colorize anime-style sketches. The model architecture is based on the Pix2Pix paper, which is effective for image-to-image translation tasks.
 
-The entire implementation, from data loading to training and inference, is contained within the `sketch-to-colored-image-generation-using-gan-based.ipynb` notebook.
+The entire implementation , from data loading to training and inference, is contained with in the `sketch-to-colored-image-generation-using-gan-based.ipynb` notebook.
 
 ## How it Works
 
